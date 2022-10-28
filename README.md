@@ -1,8 +1,7 @@
 ### Olá!! Eu sou a Layza Nauane
 
 
-- 🌱 Estudando JS
-- 😄 Pronouns: ela/dela
+- SI - UFU
 
 <div align="center">
   <a href="https://beacons.ai/LayzaDev">
