@@ -1,4 +1,4 @@
-### Olá, Layza Nauane aqui! &#128515 
+### Olá, Layza Nauane aqui! 
 
 ### Bem vindo(a) ao meu perfil! 
 
