@@ -1,6 +1,8 @@
-### Olá, Layza Nauane aqui! Bem vindo(a) ao meu perfil!
+### Olá, Layza Nauane aqui! &#128515 
 
-#### Sistemas de Informação - UFU
+### Bem vindo(a) ao meu perfil! 
+
+#### Sistemas de Informação - UFU 
 <div align="center">
   <a href="https://beacons.ai/LayzaDev">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LayzaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
