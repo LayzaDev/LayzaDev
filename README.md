@@ -1,6 +1,5 @@
 ### Olá, Layza Nauane aqui! Bem vindo(a) ao meu perfil!
-<br>
-<br>
+
 #### Sistemas de Informação - UFU
 <div align="center">
   <a href="https://beacons.ai/LayzaDev">
