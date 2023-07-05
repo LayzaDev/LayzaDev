@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Layza Nauane
+### Olá, Layza Nauane aqui! Seja bem vindo(a) ao meu perfil!
 
 #### Sistemas de Informação - UFU
 <div align="center">
@@ -15,7 +15,6 @@
 ##
 
 <div> 
-  <a href="https://www.instagram.com/layza_dpaula/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:layzanauanedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/layza-nauane-dev12/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
