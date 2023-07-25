@@ -1,4 +1,4 @@
-### Olá, Layza Nauane aqui! Bem vindo(a) ao meu perfil! 
+### Olá, eu sou a Layza Nauane! Bem vindo(a) ao meu perfil! 
 
 #### Sistemas de Informação - UFU 
 <div align="center">
