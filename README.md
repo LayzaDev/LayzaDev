@@ -38,5 +38,4 @@ Curso Sistemas de Informação na Universidade Federal de Uberlândia - UFU e es
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=blue)](mailto:layzanauanedev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/layza-nauane-dev12/)
-[![Perfil DIO](https://img.shields.io/badge/Perfil_DIO-000?style=for-the-badge&logo=dio&)](https://web.dio.me/users/layzanauanedev/?tab=achievements)
 [![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&)](https://github.com/LayzaDev)
