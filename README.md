@@ -28,11 +28,6 @@ Curso Sistemas de Informação na Universidade Federal de Uberlândia - UFU e es
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![NetBeans](https://img.shields.io/badge/NetBeans-black?style=for-the-badge&logo=netneans&)
 
-<div align="center">
-  <a href="https://beacons.ai/LayzaDev">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayzaDev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## Conecte-se comigo 🫱🏼‍🫲🏽
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=blue)](mailto:layzanauanedev@gmail.com)
