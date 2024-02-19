@@ -1,7 +1,6 @@
 # Layza Nauane
 
-Olá, meu nome é Layza, tenho 20 anos e sou de Araguari-MG.
-Curso Sistemas de Informação na Universidade Federal de Uberlândia - UFU e estou indo para o 4° período em janeiro de 2024.
+Graduanda em Sistemas de Informação na Universidade Federal de Uberlândia - UFU.
 
 ## Habilidades
 
