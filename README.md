@@ -4,11 +4,6 @@ Sistemas de Informação - UFU.
 
 ## Habilidades
 
-### Sistemas Operacionais
-
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078D6)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow)
-
 ### Linguagens de Marcação e Estilo
 
 ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
@@ -27,6 +22,10 @@ Sistemas de Informação - UFU.
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
 
+### Sistemas Operacionais
+
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow)
 
 ### Ferramentas
 
